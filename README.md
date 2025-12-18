@@ -8,9 +8,9 @@ Product Designer who builds. I work at the intersection of design, strategy and 
 Here on GitHub, I document what I create: prototypes, tools, workflows, SaaS experiments and product foundations I build with Bonafé Solutions.
 
 </td>
-<td width="330">
+<td width="250">
 
-<img src="https://github.com/user-attachments/assets/ef5810c5-692a-4b81-b772-6e13c26a1f4a" width="300" />
+<img src="https://github.com/user-attachments/assets/ef5810c5-692a-4b81-b772-6e13c26a1f4a" width="250" />
 
 </td>
 </tr>
@@ -29,7 +29,7 @@ Here on GitHub, I document what I create: prototypes, tools, workflows, SaaS exp
 ## 🛠️ Stack I Use to Build
 
 - **Figma** — fast UX/UI, flows and interactive prototypes  
-- **JavaScript / TypeScript (básico)**  
+- **JavaScript / TypeScript**  
 - **React / Next.js** — functional prototypes & validation  
 - **AI applied to the design process**  
 - **Git & GitHub**  
@@ -52,7 +52,6 @@ Here on GitHub, I document what I create: prototypes, tools, workflows, SaaS exp
 ## 📫 Connect
 
 **LinkedIn:** in/deayra  
-**Twitch:** Deayra777  
 **GitHub Projects:** coming soon
 
 ---
