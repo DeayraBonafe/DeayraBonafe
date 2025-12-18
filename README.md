@@ -49,9 +49,6 @@ Here on GitHub, I document what I create: prototypes, tools, workflows, SaaS exp
 
 ---
 
-## 📫 Connect
-
-**LinkedIn:** in/deayra  
 **GitHub Projects:** coming soon
 
 ---
